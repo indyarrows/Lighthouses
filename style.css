@@ -1,0 +1,119 @@
+body {background-color: #a3eff7; font-family: 'Times New Roman', Times, serif;}
+nav {
+    background-color: #ed6d05;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 50px;
+    width: 100vw;
+    z-index: 1;}
+
+nav ul li {
+    float: left;
+    margin-right: 50px;
+    list-style-type: none;
+    text-align: center;
+    height: 150px;}
+
+.nav-link {
+    color: bisque;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    height: 50px;}
+#lighthouse-vid{
+    margin-top: 50px;
+    margin-left: 35vw;}
+
+#home {
+    margin-top: 50px;
+    position: relative;
+    left: -8px;
+    width: 100vw;
+    height: 25vh;
+    padding-top: 3em;
+    background: url(https://live.staticflickr.com/1907/45743679461_b67cf956a4_c.jpg) center 75% no-repeat fixed;
+    background-size: cover;}
+.header-tag {
+    text-align: center;
+    color: rgb(8, 145, 26);
+    font-size: 75px;
+    font-style: italic;
+    margin-top: -50px;
+    text-shadow: 3px 3px 3px whitesmoke;}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32pt;
+    color: brown;
+    text-align: center;
+    margin-top: 75px;}
+
+h2{font-size: 32px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-top: 70px;
+    margin-block-end: 10px;
+    color: rgb(112, 7, 4);}
+
+h6{color: red;}
+
+#intro {
+    font-size: 22pt;
+    color: #250dd9;
+    margin-left: 35vw;
+    margin-right: 25vw;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif}
+
+#hilton-pic {
+    height: 400px;
+    width: 600px;
+    object-fit: cover;
+    border-radius: 4em;
+    margin-top: 20px;}
+
+#ParagraphHTL {
+    font-size: 14pt;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 0, 0);}
+
+#EagleBluff-pic {
+        height: 600px;
+        width: 400px;
+        object-fit: cover;
+        border-radius: 4em;}
+    
+#EagleBluff-text {
+        font-size: 14pt;
+        font-family: 'Times New Roman', Times, serif;
+        color: #a31f15;}
+
+#NorthPoint-pic {
+            height: 400px;
+            width: 600px;
+            object-fit: cover;
+            border-radius: 4em;}
+#NorthPoint-text {
+            font-size: 14pt;
+            font-family: 'Times New Roman', Times, serif;
+            color: #a31f15;}               
+
+#PresqueIsle-pic {
+            height: 600px;
+            width: 400px;
+            object-fit: cover;
+            border-radius: 4em;}
+#Presque-text {
+            font-size: 14pt;
+            font-family: 'Times New Roman', Times, serif;
+            color: #a31f15;}       
+
+#SturgeonPoint-pic {
+                height: 400px;
+                width: 600px;
+                object-fit: cover;
+                border-radius: 4em;}
+#SturgeonPoint-text {
+                font-size: 14pt;
+                font-family: 'Times New Roman', Times, serif;
+                color: #a31f15;}                
